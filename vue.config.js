@@ -13,7 +13,7 @@ module.exports = defineConfig({
       }
     }
   },
-  assetsDir: 'static',
-  parallel: false,
-  publicPath: './',
+  // assetsDir: 'static',
+  // parallel: false,
+  // publicPath: './',
 })

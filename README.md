@@ -1,4 +1,4 @@
-# bhclient
+# bhclient-demo
 
 ## Project setup
 ```
